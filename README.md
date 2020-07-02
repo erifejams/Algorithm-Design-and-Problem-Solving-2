@@ -1,4 +1,4 @@
-# Algorithm-Design-and-Problem-Solving-2
+# Algorithm-Design-and-Problem-Solving
 
 Tasks included in this project:
 1. Depth First (DF) Traversal of connected graph using both recursion and iteration. 
